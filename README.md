@@ -1,3 +1,3 @@
 # Snake-Game
 
-This is a very generic snake game I made because I was feeling bored.
+This is a very generic snake game I made because I was bored.
